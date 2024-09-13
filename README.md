@@ -1,16 +1,17 @@
-# auth_ui
+# Flutter Auth UI
 
-A new Flutter project.
+### Full App UI
+![full app image](assets/readmeImg/full_ui.jpeg)
+---
+### Screens from app
 
-## Getting Started
+#### Welcome page
+![full app image](assets/readmeImg/welcome.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Sign in page
+![full app image](assets/readmeImg/signIn.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Sign up page
+![full app image](assets/readmeImg/signUp.png)
